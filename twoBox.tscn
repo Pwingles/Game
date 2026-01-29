@@ -1,0 +1,11 @@
+[gd_scene format=3 uid="uid://64lvwqyc523"]
+
+[ext_resource type="PackedScene" uid="uid://che30bd2vl04m" path="res://icon.tscn" id="1_lo3bb"]
+
+[node name="Node2D" type="Node2D" unique_id=1365091262]
+
+[node name="Icon" parent="." unique_id=473224357 instance=ExtResource("1_lo3bb")]
+position = Vector2(157, 263)
+
+[node name="Icon2" parent="." unique_id=1933504598 instance=ExtResource("1_lo3bb")]
+position = Vector2(382, 145)
